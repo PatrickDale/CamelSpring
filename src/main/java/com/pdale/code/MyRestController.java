@@ -17,7 +17,7 @@ public class MyRestController {
         this.myService = myService;
     }
 
-    @RequestMapping(method = RequestMethod.GET)
+    @RequestMapping(method = RequestMethod.POST)
     public void pushToQueue() {
         myService.sendObjectsToQueue();
     }

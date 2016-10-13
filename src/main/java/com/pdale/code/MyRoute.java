@@ -8,6 +8,6 @@ public class MyRoute extends RouteBuilder {
     public void configure() throws Exception {
         from("test-jms:queue:test.queueme").to("file://test");
 
-        from("test-jms:queue:name.queue").to("ahc:http://localhost:8080/");
+        from("test-jms:queue:name.queue").to("http://localhost:8080/");
     }
 }
