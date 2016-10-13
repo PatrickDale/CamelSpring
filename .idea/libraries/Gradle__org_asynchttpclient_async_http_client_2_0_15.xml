@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.asynchttpclient:async-http-client:2.0.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.15/c6138e73e17ca6507f4ba526263b4357578be7a9/async-http-client-2.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.0.15/502f4bba54be58bf2c73df2a40655ecac4a92ce1/async-http-client-2.0.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
